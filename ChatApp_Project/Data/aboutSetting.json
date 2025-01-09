@@ -1,0 +1,39 @@
+
+
+[
+    {
+        "title": "Share with friends",
+        "image": "share",
+        "link": "https://google.com",
+       
+    },
+    {
+        "title": "Term of Use",
+        "image": "term",
+        "link": "https://figma.com",
+        
+    },
+    {
+        "title": "Privacy & Security",
+        "image": "privacy",
+        "link": "https://chatgpt.com",
+        
+    },
+    {
+        "title": "Contact",
+        "image": "contact",
+        "link": "https://gmail.com",
+        
+    },
+    {
+        "title": "Email us",
+        "image": "email",
+        "link": "https://facebook.com",
+        
+    },
+    {
+        "title": "About us",
+        "image": "about",
+        "link": "https://youtube.com",
+    }
+]
